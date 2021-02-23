@@ -2,6 +2,7 @@
 
 ## Learning Goals
 
+
 - Train yourself to [Think in React](https://reactjs.org/docs/thinking-in-react.html)
 - Design components based on a mockup
 - Pass down data to components via props
